@@ -1,2 +1,2 @@
 # altconnect
-a reall time chatting app
+a real time chatting app
